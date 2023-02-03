@@ -37,20 +37,13 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 1. Deve ter uma imagem no **Header**.
 2. Em **Content** uma breve descrição sobre a clínica.
-   
-   h1 p strong br
 3. **Menu** e **Footer** padrões em todas as páginas.
-   
-   ul>li*4 
-
 
 
 ### Sobre a clínica
 
 1. Deve ter uma imagem diferente no **Header**.
 2. Em **Content** um texto falando sobre a clínica.
-   
-   clínica tem ar condicionado, maravilhosa etc
 3. **Menu** e **Footer** padrões em todas as páginas.
 
 ### Horário de Atendimento
